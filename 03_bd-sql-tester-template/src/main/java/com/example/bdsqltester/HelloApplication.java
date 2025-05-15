@@ -1,3 +1,4 @@
+
 package com.example.bdsqltester;
 
 import javafx.application.Application;
@@ -23,7 +24,7 @@ public class HelloApplication extends Application {
         Scene scene = new Scene(fxmlLoader.load());
         primaryStage = stage;
 
-        stage.setTitle("Hello!");
+        stage.setTitle("WELCOMEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE");
         stage.setScene(scene);
         stage.show();
     }
